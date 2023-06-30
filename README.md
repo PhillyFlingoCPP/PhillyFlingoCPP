@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Léonard</h1>
-<h3 align="center">A passionate backend developer from France</h3>
+<img src="header.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phillyflingocpp&label=Profile%20views&color=0e75b6&style=flat" alt="phillyflingocpp" /> </p>
 
